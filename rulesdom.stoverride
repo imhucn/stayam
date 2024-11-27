@@ -2,3 +2,5 @@ name: rules
 desc: 自加规则！
 rules:
   - DOMAIN-SUFFIX,ifastgb.com,DIRECT
+  - DOMAIN-SUFFIX,ocbc.com,DIRECT
+  - DOMAIN-SUFFIX,clubsim.com.hk,DIRECT
