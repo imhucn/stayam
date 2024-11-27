@@ -1,0 +1,4 @@
+name: rules
+desc: 自加规则！
+rules:
+  - DOMAIN-SUFFIX,ifastgb.com,DIRECT
