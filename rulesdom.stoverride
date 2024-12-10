@@ -8,3 +8,4 @@ rules:
   - DOMAIN-SUFFIX,za.group,DIRECT
   - DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
   - DOMAIN-SUFFIX,wise.com,DIRECT
+  - IP-CIDR,47.245.55.99,DIRECT
